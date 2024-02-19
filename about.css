@@ -1,0 +1,46 @@
+
+
+.opara{
+   
+  position: static;
+}
+
+.spara{
+    bottom: 350px;
+    position: relative;
+
+}
+
+.img{
+    padding: 60px;
+    position: relative;
+    left: 150px;
+}
+
+.button{
+    position: relative;
+    margin-bottom: 50px;
+    margin-left: 350px;
+   
+
+}
+
+.btn{
+    margin: 5px;
+}
+
+.last{
+   
+    background-color: black;
+    color:white;
+    height:100px;
+    display:flex;
+    justify-content: center;
+    padding-top:50px;
+    
+   
+}
+
+
+
+
